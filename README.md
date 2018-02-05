@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Main là project chứa thông tin các projects con phục vụ việc học tập
 ##### Purpose:
 ```
@@ -33,3 +34,25 @@ Vấn đề của bản thân là gì? Nêu ra 1 số ví dụ cụ thể, và c
 Mình có muốn học trí tuệ nhân tạo không?
 
 Những gì mình đã suy nghĩ, cách giải quyết mình đã nghĩ ra tại thời điểm đó làm sao để có thể lưu nó lại, cách nào để tìm lại từng phiên bản suy nghĩ đó.
+=======
+`Way to learn`
+* [Java](https:github.com/way-to-learn/java)
+
+
+Để đọc tài liệu nhanh hơn, mình cần phải nắm các thành ngữ (idioms).
+http://schema.org/
+
+Để học uyển chuyển hơn, mình cần có nhiều góc nhìn (Perspective), 1 vài ví dụ:
+Để học Java, mình muốn nắm toàn diện mọi thứ thì mình phải có phương pháp thống kê các thành phần của nó, và mối quan hệ giữa các thành phần, có thể chia làm 2 loại: Static và Dynamic => Properties và Behaviors
+
+* Properties
+    * Namespace
+    * Class, Interface
+    * public, private, protected
+    * static, final
+    * Annotation
+* Behaviors
+    * ...
+
+Trên đó là những thành phần cơ bản của Java => Mở rộng ra?
+>>>>>>> 059958f9af664587a9950684be01280a63e5f40e

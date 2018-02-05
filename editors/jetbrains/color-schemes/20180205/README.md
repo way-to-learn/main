@@ -1,0 +1,1 @@
+Set editor-background opacity 7
